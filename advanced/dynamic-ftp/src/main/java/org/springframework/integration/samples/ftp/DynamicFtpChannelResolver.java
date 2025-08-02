@@ -38,6 +38,7 @@ import org.springframework.messaging.MessageChannel;
  */
 public class DynamicFtpChannelResolver {
 
+
 	//In production environment this value will be significantly higher
 	//This is just to demonstrate the concept of limiting the max number of
 	//Dynamically created application contexts we'll hold in memory when we execute
